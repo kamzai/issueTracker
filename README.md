@@ -7,7 +7,6 @@ Issue Tracker is a software that used to effectively manage the issues related t
 
 2.  Folder Structure
 
-    <img src='./img/client.PNG'>
 ```bash
     CLIENT 
         |---------public :- Contain the html file
