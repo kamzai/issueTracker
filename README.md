@@ -7,11 +7,12 @@ Issue Tracker is a software that used to effectively manage the issues related t
 
 2.  Folder Structure
 
+    <img src='./img/client.PNG'>
+```bash
     CLIENT 
         |---------public :- Contain the html file
         |
         |---------src :- source folder of the front end
-                |
                 |
                 |-------action
                 |
@@ -20,31 +21,24 @@ Issue Tracker is a software that used to effectively manage the issues related t
                 |-------components
                 |        |
                 |        |------auth
-                |         |
-                |         |------dashboard
-                |         |
-                |         |------issue
-                |         |       |------isssueDetail
-                |         |       |------allIssues
-                |         |
-                |         |------profile
-                |         |
-                |         |------project
-                |         |       |------projectDetail
-                |         |       |------allProject
-                |         |
-                |         |------sidebar
+                |        |------dashboard
+                |        |------issue
+                |        |       |------isssueDetail
+                |        |       |------allIssues
+                |        |------profile
+                |        |------project
+                |        |       |------projectDetail
+                |        |       |------allProject
+                |        |------sidebar
                 |
                 |-------reducer
                 |
-                | 
                 |-------APP
                 |
                 |-------routes
                 | 
-                |
                 |-------indes.js (entry point)
-                |
+
 
 
 
@@ -77,6 +71,7 @@ Issue Tracker is a software that used to effectively manage the issues related t
         |
         |---------index.js
         |        
+```
 
 3.  SETUP
     
