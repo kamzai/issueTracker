@@ -11,3 +11,4 @@
 /client/README.md
 
 /server/package-lock.json
+/server/node_modules/configstore/index.js
