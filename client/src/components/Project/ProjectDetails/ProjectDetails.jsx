@@ -323,7 +323,7 @@ const ProjectDetails = () => {
                             </Grid>
                         </div>
 
-                        {userDetails.result.role === 'manager' && 
+                        {(userDetails.result.role === 'manager' || userDetails.result.role === 'developer') && 
                         <Grid container justify='flex-end'>
 
                             <Grid item>
