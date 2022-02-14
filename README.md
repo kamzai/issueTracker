@@ -1,7 +1,7 @@
 ISSUE TARCKER
 
 Projects consist of Issues/Tickets. This Might be a feature or a bug.
-Issue Tracker is a software that used to effectively manage the issues related to a project
+Issue Tracker is a software that is used to effectively manage the issues related to a project
 
 1.  WEB STACK used : NODE.js REACT.js MONGOdb EXPRESS.js
 
